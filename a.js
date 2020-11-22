@@ -1,1 +1,3 @@
 js文件初始化
+xiaowang:我是xiaowang分支
+xiaowang:我是xiaowanmg主管,今天是我第一天上班
